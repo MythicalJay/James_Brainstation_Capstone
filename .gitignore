@@ -1,3 +1,3 @@
-flights_filtered.csv
-flight_df.pickle
-old_flight_df.pickle
+/data/flights_filtered.csv
+/data/flight_df.pickle
+/data/old_flight_df.pickle
